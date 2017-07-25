@@ -1,5 +1,7 @@
+- set os x defaults
 - install command line tools
 - install brew
+  - install git
   - install neovim
   - install tmux
   - install zsh
@@ -8,5 +10,6 @@
   - install htop
   - install python
   - install reattach-to-user-namespace (? tmux copy/paste)
+- set git username and email
 - install vundle
 - git clone dotfiles & setup
