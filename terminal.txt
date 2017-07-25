@@ -1,0 +1,12 @@
+- install command line tools
+- install brew
+  - install neovim
+  - install tmux
+  - install zsh
+  - install the_silver_searcher (ag search for Vim CtrlP plugin)
+  - install n (node version manager)
+  - install htop
+  - install python
+  - install reattach-to-user-namespace (? tmux copy/paste)
+- install vundle
+- git clone dotfiles & setup

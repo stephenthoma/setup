@@ -1,0 +1,13 @@
+# menubar
+moom
+bartender
+dropbox?
+fantastical?
+flux?
+
+# entertainment
+spotify
+vlc
+
+# misc
+keka
