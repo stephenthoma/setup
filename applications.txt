@@ -1,13 +1,17 @@
 # menubar
 moom
 bartender
-dropbox?
-fantastical?
+1password
+amphetamine
+backup and sync from google
 flux?
 
 # entertainment
 spotify
 vlc
+reeder
 
 # misc
 keka
+frank deloupe
+alacritty
